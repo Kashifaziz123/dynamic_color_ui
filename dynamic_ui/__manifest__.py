@@ -4,7 +4,7 @@
 {
     'name': 'Dynamic Backend Color UI',
     'license': 'AGPL-3',
-    'version': '1.0.1',
+    'version': '13.0.1',
     "category": "Themes/Colors",
     'description': "Dynamic Backend Theme",
     'author': 'AlHadiTech',
