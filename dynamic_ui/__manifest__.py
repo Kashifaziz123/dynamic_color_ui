@@ -7,7 +7,7 @@
     'version': '13.0.1',
     "category": "Themes/Colors",
     'description': "Dynamic Backend Theme",
-    'author': 'AlHadiTech',
+    "author": "Kashif Aziz",
     'price':25,'currency': 'EUR',
     'website': 'https://alhaditech',
     'depends': ['base_setup','web'],
