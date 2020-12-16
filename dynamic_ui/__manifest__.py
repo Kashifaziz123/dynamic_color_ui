@@ -5,7 +5,7 @@
     'name': 'Dynamic Backend Color UI',
     'license': 'AGPL-3',
     'version': '13.0.1',
-    "category": "Themes/Colors",
+    "category": "Extra Tools",
     'description': "Dynamic Backend Theme",
     "author": "Kashif Aziz",
     'price':25,'currency': 'EUR',
