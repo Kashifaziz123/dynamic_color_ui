@@ -17,6 +17,7 @@
         "views/template_colors.xml"
     ],
     'installable': True,
-     'application': True,
-    'auto_install': False
+    'application': False,
+    'auto_install': False,
+    'license': 'AGPL-3',
 }
