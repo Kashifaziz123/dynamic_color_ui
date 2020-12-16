@@ -2,7 +2,7 @@
 # Copyright 2020-now Al Hadi Tech - Pakistan
 # License AGPL-3.0
 {
-    'name': 'Dynamic Backend Color UI',
+    'name': 'Dynamic theme Color UI',
     'license': 'AGPL-3',
     'version': '13.0.1',
     "category": "Extra Tools",
