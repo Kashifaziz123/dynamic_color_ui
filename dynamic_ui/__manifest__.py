@@ -2,12 +2,12 @@
 # Copyright 2020-now Al Hadi Tech - Pakistan
 # License AGPL-3.0
 {
-    'name': 'Dynamic Background Colors Odoo',
+    'name': 'Dynamic Theme Color UI',
     'license': 'AGPL-3',
-    'version': '13.0.1',
-    "category": "Extra Tools",
-    'description': "Dynamic Color Theme",
-    "author": "Kashif Aziz",
+    'version': '1.0.1',
+    "category": "Theme Color",
+    'description': "Dynamic Theme Color UI",
+    'author': 'AlHadiTech',
     'price':25,'currency': 'EUR',
     'website': 'https://alhaditech',
     'depends': ['base_setup','web'],
@@ -17,7 +17,5 @@
         "views/template_colors.xml"
     ],
     'installable': True,
-    'application': False,
-    'auto_install': False,
-    'license': 'AGPL-3',
+    'auto_install': False
 }
