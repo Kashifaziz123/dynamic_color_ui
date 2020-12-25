@@ -7,9 +7,9 @@
     'version': '1.0.1',
     "category": "Theme Color",
     'description': "Dynamic Theme Color UI",
-    'author': 'Kashif Aziz',
+    'author': 'Alhaditech',
     'price':25,'currency': 'EUR',
-    'website': 'https://alhaditech',
+    'website': 'https://alhaditech.com',
     'depends': ['base_setup','web'],
     'images': ['static/description/icon.png'],
     'data': [
